@@ -1,0 +1,7 @@
+E:\потокиии\searching\library\bin\Release\library.exe
+E:\потокиии\searching\library\bin\Release\library.pdb
+E:\потокиии\searching\library\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\потокиии\searching\library\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\потокиии\searching\library\obj\x86\Release\library.csproj.GenerateResource.Cache
+E:\потокиии\searching\library\obj\x86\Release\library.exe
+E:\потокиии\searching\library\obj\x86\Release\library.pdb

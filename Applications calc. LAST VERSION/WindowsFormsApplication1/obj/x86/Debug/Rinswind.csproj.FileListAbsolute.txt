@@ -1,0 +1,16 @@
+F:\сишные проги\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\сишные проги\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\сишные проги\Applications calc. LAST VERSION\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\сишные проги\Applications calc. LAST VERSION\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\сишные проги\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\сишные проги\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\сишные проги\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\Rinswind.csproj.GenerateResource.Cache
+F:\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Applications calc. LAST VERSION\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Applications calc. LAST VERSION\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Applications calc. LAST VERSION\WindowsFormsApplication1\obj\x86\Debug\Rinswind.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="studentslist">
+</Property><Property Name="Solution File" Value="F:\WindowsFormsApplication6\studentslist.sln">
+</Property><Property Name="Date" Value="9 декабря 2018">
+</Property><Property Name="Time" Value="16:44">
+</Property></Properties><Event ErrorLevel="0" Project="WindowsFormsApplication6" Source="WindowsFormsApplication6\WindowsFormsApplication6.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplication6" Source="WindowsFormsApplication6\WindowsFormsApplication6.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="studentslist.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="studentslist.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication6" Source="WindowsFormsApplication6\WindowsFormsApplication6.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

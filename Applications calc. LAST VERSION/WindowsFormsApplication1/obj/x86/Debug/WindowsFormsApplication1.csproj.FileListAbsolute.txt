@@ -1,0 +1,101 @@
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Ф\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Ф\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Ф\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Ф\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Ф\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Ф\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Ф\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\проги\C#\Applications!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Applic1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Applic1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Applic1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Applic1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Applic1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Applic1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\Applic1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Applic1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\важная папка с программами\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\важная папка с программами\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\важная папка с программами\Applications\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\важная папка с программами\Applications\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\важная папка с программами\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\важная папка с программами\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\важная папка с программами\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\важная папка с программами\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\проги\C#\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\проги\C#\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\проги\C#\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\проги\C#\Applications\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\buffy\Applications. Calculator (engineer)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\buffy\Applications. Calculator (engineer)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\buffy\Applications. Calculator (engineer)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\buffy\Applications. Calculator (engineer)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\не трогать\buffy\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\сишные проги\Applications. Calculator (engineer) - копия\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\сишные проги\Applications. Calculator (engineer) - converts\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

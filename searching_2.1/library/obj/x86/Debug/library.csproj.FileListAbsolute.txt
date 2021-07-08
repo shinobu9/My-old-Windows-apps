@@ -1,0 +1,76 @@
+E:\потокиии\searching\library\obj\x86\Debug\library.csprojResolveAssemblyReference.cache
+E:\потокиии\searching\library\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\потокиии\searching\library\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\потокиии\searching\library\obj\x86\Debug\library.csproj.GenerateResource.Cache
+E:\потокиии\searching\library\bin\Debug\library.exe
+E:\потокиии\searching\library\bin\Debug\library.pdb
+E:\потокиии\searching\library\obj\x86\Debug\library.exe
+E:\потокиии\searching\library\obj\x86\Debug\library.pdb
+F:\потокиии\searching\library\obj\x86\Debug\library.exe
+F:\потокиии\searching\library\obj\x86\Debug\library.pdb
+F:\потокиии\searching\library\bin\Debug\library.exe
+F:\потокиии\searching\library\bin\Debug\library.pdb
+F:\потокиии\searching\library\obj\x86\Debug\library.csprojResolveAssemblyReference.cache
+F:\потокиии\searching\library\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\потокиии\searching\library\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\потокиии\searching\library\obj\x86\Debug\library.csproj.GenerateResource.Cache
+F:\потокиии\searching.better_one\library\obj\x86\Debug\library.exe
+F:\потокиии\searching.better_one\library\obj\x86\Debug\library.pdb
+F:\потокиии\searching.better_one\library\bin\Debug\library.exe
+F:\потокиии\searching.better_one\library\bin\Debug\library.pdb
+F:\потокиии\searching.better_one\library\obj\x86\Debug\library.csprojResolveAssemblyReference.cache
+F:\потокиии\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\потокиии\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\потокиии\searching.better_one\library\obj\x86\Debug\library.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\важная папка с программами\searching.better_one\library\obj\x86\Debug\library.exe
+C:\Users\USER\Desktop\важная папка с программами\searching.better_one\library\obj\x86\Debug\library.pdb
+C:\Users\USER\Desktop\важная папка с программами\searching.better_one\library\bin\Debug\library.exe
+C:\Users\USER\Desktop\важная папка с программами\searching.better_one\library\bin\Debug\library.pdb
+C:\Users\USER\Desktop\важная папка с программами\searching.better_one\library\obj\x86\Debug\library.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\важная папка с программами\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\важная папка с программами\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\важная папка с программами\searching.better_one\library\obj\x86\Debug\library.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\obj\x86\Debug\library.exe
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\obj\x86\Debug\library.pdb
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\bin\Debug\library.exe
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\bin\Debug\library.pdb
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\obj\x86\Debug\library.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\obj\x86\Debug\library.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\важная папка с программами\потокиии\searching.better_one\library\bin\Debug\library.exe.config
+F:\потокиии\searching.better_one\library\bin\Debug\library.exe.config
+E:\потокиии\searching.better_one\library\bin\Debug\library.exe.config
+E:\потокиии\searching.better_one\library\obj\x86\Debug\library.exe
+E:\потокиии\searching.better_one\library\obj\x86\Debug\library.pdb
+E:\потокиии\data bases\searching.better_one\library\bin\Debug\library.exe.config
+E:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\library.exe
+E:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\library.pdb
+E:\потокиии\data bases\searching.better_one\library\bin\Debug\library.exe
+E:\потокиии\data bases\searching.better_one\library\bin\Debug\library.pdb
+E:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\library.csprojResolveAssemblyReference.cache
+E:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\library.csproj.GenerateResource.Cache
+F:\потокиии\data bases\searching.better_one\library\bin\Debug\library.exe.config
+F:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\library.exe
+F:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\library.pdb
+F:\потокиии\data bases\searching.better_one\library\bin\Debug\library.exe
+F:\потокиии\data bases\searching.better_one\library\bin\Debug\library.pdb
+F:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\library.csprojResolveAssemblyReference.cache
+F:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\потокиии\data bases\searching.better_one\library\obj\x86\Debug\library.csproj.GenerateResource.Cache
+F:\потокиии\data bases\searching_2.1\library\bin\Debug\library.exe.config
+F:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\library.exe
+F:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\library.pdb
+F:\потокиии\data bases\searching_2.1\library\bin\Debug\library.exe
+F:\потокиии\data bases\searching_2.1\library\bin\Debug\library.pdb
+F:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\library.csprojResolveAssemblyReference.cache
+F:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\library.csproj.GenerateResource.Cache
+F:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\WindowsFormsApplication1.AboutBox1.resources
+E:\потокиии\data bases\searching_2.1\library\bin\Debug\library.exe.config
+E:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\library.exe
+E:\потокиии\data bases\searching_2.1\library\obj\x86\Debug\library.pdb
