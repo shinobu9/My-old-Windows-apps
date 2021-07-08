@@ -1,1 +1,1 @@
-# Windows_apps_with_SQL
+# Windows desktop apps in C# with SQL attached
